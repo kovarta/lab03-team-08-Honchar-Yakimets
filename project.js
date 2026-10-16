@@ -6,7 +6,7 @@ language: "uk",
 itemsPerPage: 10,
 welcomeMessage: "Welcome",
 dateFormat: "DD.MM.YYYY",
-sortOrder: "ascending",
+sortOrder: "descending",
 accessLevel: "student",
 displayMode: "compact"
 };
